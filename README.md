@@ -21,7 +21,7 @@
 ## 🌓 Modo claro/escuro
 ![Modo claro/escuro](img/Animação.gif)
 
-## 🌓 Converter comprimento
+## 📏 Converter comprimento
 ![Comprimento](img/preview-comprimento.png)
 ---
 
